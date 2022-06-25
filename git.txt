@@ -27,3 +27,7 @@ trabajando en git
 #╰─ git diff --staged //vemos modif en staged
 
 #╰─ git log --oneline // vemos info de todas las mod
+
+#╰─ git branch //vemos en que rama trabajamos
+
+#╰─ git checkout -b nombre_rama //creamos rama
