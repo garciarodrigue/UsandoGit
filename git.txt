@@ -31,3 +31,5 @@ trabajando en git
 #╰─ git branch //vemos en que rama trabajamos
 
 #╰─ git checkout -b nombre_rama //creamos rama
+
+#╰─ git checkout nombreRama //asi nos movemos entre ramas
