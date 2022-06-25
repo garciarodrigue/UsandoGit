@@ -18,3 +18,6 @@ trabajando en git
 
 #╰─ git mv archivo.txt nuevo.txt //renombra en stage
 
+#╰─ .gitignore /ignorara lo que le digamos
+
+#╰─ git status -s //muestra menos detalles
