@@ -33,3 +33,5 @@ trabajando en git
 #╰─ git checkout -b nombre_rama //creamos rama
 
 #╰─ git checkout nombreRama //asi nos movemos entre ramas
+
+#╰─ git merge nombreRama // asi llevamos mod a la rama donde no estan mod
