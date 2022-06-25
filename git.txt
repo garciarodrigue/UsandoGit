@@ -21,3 +21,9 @@ trabajando en git
 #╰─ .gitignore /ignorara lo que le digamos
 
 #╰─ git status -s //muestra menos detalles
+
+#╰─ git diff //muetra las lineas modific se sale con "q"
+
+#╰─ git diff --staged //vemos modif en staged
+
+#╰─ git log --oneline // vemos info de todas las mod
