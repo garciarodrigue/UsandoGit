@@ -10,9 +10,11 @@ trabajando en git
 
 #╰─ git status
 
-#╰─ git add archivo.txt
+#╰─ git add archivo.txt 
 
 #╰─ git commit -m "que paso??"
 
+#╰─ git rm archivo.txt //esto se elimina en stage
 
+#╰─ git mv archivo.txt nuevo.txt //renombra en stage
 
