@@ -35,3 +35,7 @@ trabajando en git
 #╰─ git checkout nombreRama //asi nos movemos entre ramas
 
 #╰─ git merge nombreRama // asi llevamos mod a la rama donde no estan mod
+
+#╰─ git remote add origin https://github.com/garciarodrigue/Repo.git
+
+╰─ git push -u origin master //master o main o nombreRama
