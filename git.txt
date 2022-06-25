@@ -1,0 +1,17 @@
+trabajando en git
+
+#╰─ git config --global user.name "Tenshi Kira"
+
+#╰─ git config --global user.email garciarodrigueza587@gmail.com
+
+#╰─ git init
+
+#╰─ git config --global core.autocrlf input
+
+#╰─ git status
+
+#╰─ git add archivo.txt
+
+
+
+
