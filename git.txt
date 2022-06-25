@@ -12,6 +12,7 @@ trabajando en git
 
 #╰─ git add archivo.txt
 
+#╰─ git commit -m "que paso??"
 
 
 
